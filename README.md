@@ -11,10 +11,10 @@ Xasena
 
 1. Fork This Repository
    <br>
-<a href='https://github.com/Kingbadan321/Zeta-XD/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/MrBoss002/MrBoss-WhatsAppBot/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 2. Get Session I'D.
     <br>
-<a href='https://www.badan-ser.xyz' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.WhatsApp.web' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
 ### Deploy
@@ -27,12 +27,12 @@ Xasena
 
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Kingbadan321/Zeta-XD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=violet'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/MrBoss002/MrBoss-WhatsAppBot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=violet'/></a>
 
 
 ***
 * Join Group For Help
-<a href="https://chat.whatsapp.com/BxNvOg51FYk2Q2JYmfogCm"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
+<a href="https://telegram.me/Mallu_Hub_Official"><img alt="Telegram" src="https://img.shields.io/badge/-telegram%20Group-black?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
 
 
 
@@ -48,7 +48,7 @@ Xasena
 <br>
 
 
-* [`External PLUGINS`](https://github.com/Kingbadan321/Zeta-XD-Plugins/blob/main/README.md)
+* [`External PLUGINS`](https://github.com/MrBoss002/MrBoss-WhatsAppBot-Plugins/blob/main/README.md)
 
 ### Thanks To
 
