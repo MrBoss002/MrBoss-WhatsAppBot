@@ -1,6 +1,6 @@
-<a><img src='https://i.imgur.com/6Ty8MPT.jpeg'/></a>
-## Zeta-XD Whatsapp Bot
-Zeta-XD - Simple whatsapp Multi Device bot based on 
+<a><img src='https://i.imgur.com/h05eFLU.jpeg'/></a>
+## MrBoss-002 Whatsapp Bot
+MrBoss002 - Simple whatsapp Multi Device bot based on 
 Xasena 
 
 ``` Full Open Source```
